@@ -33,7 +33,7 @@ farmflow-ai/
 ├── notebooks/              # Original exploratory notebooks
 ├── data/                   # Datasets (git-ignored, see data/README.md)
 ├── models/                 # Trained artifacts (git-ignored, see models/README.md)
-├── .env.example                    # Template for your API keys
+├── .env.example            # Template for your API keys
 └── requirements.txt
 ```
 
